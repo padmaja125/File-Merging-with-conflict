@@ -1,8 +1,6 @@
 File for Merging branches with conflicts
-changes for merging to avoid conflicts.
-edited file
-adding some more line
-
+<<<<<<< HEAD
+changes for master branch
 =======
 making changes to the file in the master/ main branch
 >>>>>>> my-feature
